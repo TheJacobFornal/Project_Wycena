@@ -1,0 +1,73 @@
+Przed 2025	Excel_map_1
+plik zamówenia				Kalkulacja
+5 	name				6 name
+6 	ilosc				7 ilosc
+
+7 	piła				21 Piła		
+8	Ploter				36 Ploter
+9	FK				25 Frez Konwencja ?????
+10	TK				28 TK
+11	FCNC				32 FCNC
+12	TCNC				34 TCNC
+13	SZLIF				30 Szlif
+14	Śluz				38 Śluz
+
+18 	Gatuenk				8 Gatunek			
+19 	Srednica			11 srenica
+20	Długość				12 dlugosc
+21 	A				13 a
+22 	B				14 b
+23	c				15 c
+
+
+Po 2025		Excel_map_2
+plik zamówenia				Kalkulacja
+5 	name				6 name
+6 	ilosc				7 ilosc
+
+7 	piła				21 Piła		
+8	Ploter				36 Ploter
+9	FK				25 Frez Konwencja ?????
+10	TK				28 TK
+11	FCNC				32 FCNC
+12	TCNC				34 TCNC
+13	SZLIF				30 Szlif
+14	Spawanie			?? spawanie
+15	Śluz				38 Śluz
+
+19 	Gatuenk				8 Gatunek			
+20 	Srednica			11 srenica
+21	Długość				12 dlugosc
+22 	A				13 a
+23 	B				14 b
+24	c				15 c
+
+
+
+
+
+Pytania:
+1. jaki nr ma spawanie Excel nr. 2?
+
+
+
+IA10.02.01.03.09
+
+
+
+IB10.02.02.04.01
+
+ZD11.70.01.01.04
+
+
+
+II20.02.02.00.02A - OK
+IM11.11.00.00.03 - OK
+IM30.20.05.00.06 - OK
+
+
+
+
+534 864 371 Eryk Królikowski
+
+
